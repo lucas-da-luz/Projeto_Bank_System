@@ -1,11 +1,9 @@
-import java.util.Scanner;
-
 public class Menu {
     public void menuInitial() {
             System.out.print("""
                     Welcome to Moak Digital Bank
                     
-                    Select an option for acess our bank:
+                    Select an option for access our bank:
                     
                     1 - Register (New Customers)
                     2 - Login
@@ -19,9 +17,10 @@ public class Menu {
                 
                 How can we help you today?
                 
-                1 - Check Balance
+                1 - Check Balance1
                 2 - Transfer
                 3 - Statement
+                4 - Withdraw
                 0 - Logout
                 """, userName);
     }
@@ -47,7 +46,7 @@ public class Menu {
         System.out.println("""
                 Welcome!
                 
-                For registration we need some informations about you
+                For registration we need some information about you
                 """);
     }
 }
