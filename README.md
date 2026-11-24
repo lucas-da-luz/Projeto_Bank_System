@@ -5,7 +5,7 @@ Sistema de **Banco Digital** em linha de comando, desenvolvido em **Java** para 
 **EN:** Command-line **Digital Bank** system, developed in **Java** for Learning Situation **SA D 002 – Java System Development** (Curricular Unit: Programming Logic – SENAI, Class 104190, Module 1).
 
 - **Docente / Instructor:** Victor Moak
-- **Grupo / Group:** 02 – Sistema de Banco Digital / Digital Bank SystemN/ Members:
+- **Grupo / Group:** 02 – Members:
  
 
 ---
