@@ -78,10 +78,6 @@ Os itens **em negrito** são critérios críticos.
 
 ## Checklist de tarefas / Task checklist
 
-Progresso do desenvolvimento do grupo. Troque `[ ]` por `[x]` quando a tarefa estiver concluída.
-
-**EN:** The group's development progress. Replace `[ ]` with `[x]` when a task is done.
-
 ### Estrutura geral / General structure
 - [ ] Criar o repositório no GitHub e subir o projeto
 - [ ] Organizar o código em pacotes e classes separados
